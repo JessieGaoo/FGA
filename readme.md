@@ -1,9 +1,6 @@
 # FGA: FINE-GRAINED ADVERSARIAL ATTACK ON VISION-LANGUAGE MODELS VIA CROSS-MODAL SEMANTIC DECOUPLING
 A PyTorch official implementation for [FGA: FINE-GRAINED ADVERSARIAL ATTACK ON VISION-LANGUAGE MODELS VIA CROSS-MODAL SEMANTIC DECOUPLING]
 
-## Visualization
-<img src="./figures/pipeline.png">
-
 ## Setup
 ### Prepare datasets and models
 
